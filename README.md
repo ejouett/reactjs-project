@@ -1,9 +1,9 @@
 # reactjs-project
-Usage
-With Docker (Recommended)
-docker build -t openai-gpt3 .
-docker run -it -p 3000:3000 openai-gpt3
-Without Docker
+# Usage
+# With Docker (Recommended)
+# docker build -t openai-gpt3 .
+# docker run -it -p 3000:3000 openai-gpt3
+# Without Docker
 npm i
 npm start
 Concepts Learned
