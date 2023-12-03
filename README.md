@@ -1,12 +1,12 @@
 # reactjs-project
-# Usage
-# With Docker (Recommended)
-# docker build -t openai-gpt3 .
-# docker run -it -p 3000:3000 openai-gpt3
-# Without Docker
-npm i
-npm start
-Concepts Learned
+ Usage
+ With Docker (Recommended)
+ docker build -t openai-gpt3 .
+ docker run -it -p 3000:3000 openai-gpt3
+ Without Docker
+ npm i
+ npm start
+# Concepts Learned
  Website Design - Figma
  BEM(Block-Element-Modifier) CSS
  Flexbox and Grid
@@ -19,6 +19,6 @@ Concepts Learned
  Deploying React App(s) to GitHub/Vercel
  Containerizing NodeJS app using Docker
 
-Figma Design:
+# Figma Design:
 
-credits: https://www.youtube.com/c/JavaScriptMastery
+# credits: https://www.youtube.com/c/JavaScriptMastery
